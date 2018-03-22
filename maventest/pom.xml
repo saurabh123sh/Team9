@@ -21,4 +21,13 @@
       <version>3.8.1</version>
       </dependency>
   </dependencies>
+ <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>9XTN542-releases</name>
+        <url>http://localhost:8081/artifactory/libs-release</url>
+    </repository>
+</distributionManagement>
+  
+  
 </project>
